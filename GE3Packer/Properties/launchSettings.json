@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GE3Packer": {
+      "commandName": "Project",
+      "commandLineArgs": "archive_patch10"
+    }
+  }
+}
